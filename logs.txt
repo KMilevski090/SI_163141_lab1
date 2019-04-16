@@ -1,0 +1,6 @@
+C:\Users\163141\Desktop\SI_163141_lab1>git log
+commit 79470482400599fd25148fc59a53e38b9498a320 (HEAD -> logs, origin/master, master)
+Author: unknown <kristijan.milevski@students.finki.ukim.mk>
+Date:   Tue Apr 16 15:36:56 2019 +0200
+
+    Initial commit
